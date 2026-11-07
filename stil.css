@@ -17,3 +17,4 @@ nav{margin-top:40px;padding-top:16px;border-top:1px solid var(--linie);font-size
 .held img{width:160px;height:160px;border-radius:36px;box-shadow:0 8px 30px rgba(47,93,70,.18)}
 .held h1{font-size:38px;margin-top:18px}
 ul{padding-left:20px}
+.sprachen{font-size:.9em;color:#6C7A72;text-align:center;margin-top:2em}.sprachen a{white-space:nowrap}
